@@ -15,3 +15,29 @@
     top: 10px;
     left: 0%;
 }
+
+body {
+  background-color: white;
+}
+
+body.fondo-negro {
+  background-color: gray;
+}
+
+#cambiar-fondo {
+  position: relative;
+  top: -650px;
+  left: 90%;
+}
+
+#videoD {
+  position: relative;
+  top: -310px;
+  left: 55%;
+}
+
+#hipervinculo1 {
+  position: relative;
+  top: -593px;
+  left: -16.3%;
+}
